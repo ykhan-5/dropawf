@@ -13,7 +13,7 @@ Dropawf is a full-stack database web application project created to design and i
  - Version control: Git, GitHub
 
 ## Video Walkthrough
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7jB_Gb0dFwY?si=nAwf6Bq4IPy4XRd1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 ## Running the Project:
