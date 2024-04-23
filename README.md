@@ -1,6 +1,12 @@
 # Dropawf
 ### A Courier Project Full Stack Web App Project for COSC 3380 Database Systems
 
+## Groupmates
+[@kaminjii](https://github.com/kaminjii) 
+[@wilsonhuangcs](https://github.com/wilsonhuangcs)
+[@brohudev](https://github.com/brohudev)
+[@xylacon](https://github.com/xylacon)
+
 ## Mini-world
 Dropawf is a full-stack database web application project created to design and implement a database system for a courier service complete with shipping services, package tracking, product sales, reporting, and customer and employee management.
 
