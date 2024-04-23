@@ -18,7 +18,7 @@ Dropawf is a full-stack database web application project created to design and i
  - Deployment: Azure. Cloudflare
  - Version control: Git, GitHub
 
-## [Video Walkthrough](https://youtu.be/iIBOL0GakSc)
+## [Video Walkthrough](https://youtu.be/iIBOL0GakSc){:target="_blank"}
 
 
 
