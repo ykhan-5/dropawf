@@ -1,4 +1,4 @@
-# Dropawf
+# Dropawf - [Video Walkthrough](https://youtu.be/iIBOL0GakSc)
 ### A Courier Project Full Stack Web App Project for COSC 3380 Database Systems
 
 ## Groupmates
@@ -17,10 +17,6 @@ Dropawf is a full-stack database web application project created to design and i
  - Authentification: JavaScript Cookies
  - Deployment: Azure. Cloudflare
  - Version control: Git, GitHub
-
-## [Video Walkthrough](https://youtu.be/iIBOL0GakSc)
-
-
 
 ## Running the Project:
 
